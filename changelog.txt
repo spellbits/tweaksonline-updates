@@ -2,7 +2,19 @@
 Latest Updates
 ──────────
 
-v0.0.1 | 2026-07-23
+v0.0.1 | 2026-07-24
 + Initial release
 + User Interface Tweaks
+    Demo
+    Moonlight
+    Sunlight
+    Burgundy
+    Pine
+    Orchid
+    Teal
+    Flax
 + Font Tweaks
+    Moonlight
+    Sunlight
+
+If people love and support this project, more tweaks may be added.
